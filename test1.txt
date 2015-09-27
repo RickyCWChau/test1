@@ -1,8 +1,4 @@
 some text
 <<<<<<< HEAD
-send
-qq
-=======
 sen
 3
->>>>>>> b22ded99418ae2f52d15869e4e6b252124ef873f
