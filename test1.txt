@@ -1,4 +1,3 @@
 some text
-<<<<<<< HEAD
 sen
 3
